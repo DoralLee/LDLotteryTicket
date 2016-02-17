@@ -1,0 +1,15 @@
+//
+//  LotteryPrefixHeader.pch
+//  LotteryTicket
+//
+//  Created by guigu on 16/1/28.
+//  Copyright © 2016年 b. All rights reserved.
+//
+
+#ifndef LotteryPrefixHeader_pch
+#define LotteryPrefixHeader_pch
+
+#import "LotteryHeader.h"
+#import "UIImage+StretchExtension.h"
+
+#endif /* LotteryPrefixHeader_pch */
